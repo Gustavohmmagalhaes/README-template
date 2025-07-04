@@ -1,5 +1,3 @@
-
-
 <h1 align="center" style="font-weight: bold;">Project name 💻</h1>
 
 ![react][REACT__BADGE]
