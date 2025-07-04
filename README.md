@@ -30,7 +30,6 @@
     <img src="./img/logo-comp.png" alt="logo" width="400" height="70">
 </p>
 
-![Logo da empresa](img/logo-comp.png)
 
 ## 📘 Sobre
 
