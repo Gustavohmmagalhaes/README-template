@@ -27,7 +27,7 @@
 
 
 <p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="./img/logo-comp.png" alt="logo" width="400" height="70">
 </p>
 
 ## 📘 Sobre
