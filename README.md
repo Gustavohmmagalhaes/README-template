@@ -27,7 +27,7 @@
 
 
 <p align="center">
-    <img src="./img/logo-comp.png" alt="logo" width="400" height="70">
+    <img src="./logo-comp.png" alt="logo" width="400" height="70">
 </p>
 
 
