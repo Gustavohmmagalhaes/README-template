@@ -28,6 +28,7 @@
 <p align="center">
     <img src="../.github/example.png" alt="Image Example" width="400px">
 </p>
+
 ## 📘 Sobre
 
 Este projeto é um template completo com front-end e back-end para aplicações modernas, com autenticação JWT, upload de imagens, envio de emails e integração com serviços como Cloudinary, AWS e bancos de dados relacionais e não relacionais.
