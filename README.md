@@ -173,7 +173,7 @@ Liste as principais rotas da sua API e quais são os corpos de requisição espe
 | <kbd>/dashboard</kbd>     | página que contém todas as informações de compras e operações do usuário
 
 
-<h2 id="Endpoints">[🔌 Endpoints da API](#top) </h2>
+<h2 id="Endpoints">🔌 Endpoints da API </h2>
 
 <!-- Substitua -->
 
