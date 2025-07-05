@@ -309,7 +309,7 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
 ```bash
     insira o Modelo Entidade Relacionamento aqui
 ```
-<h2 id="doc">[:pushpin:Documentação] (#top)</h2>
+<h2 id="doc">:pushpin:Documentação</h2>
 
 - [📘 Documento de Requisitos](https://link-doc-requisitos)
 - [🎨 Protótipo/Design no Figma](https://figma.com/projeto-exemplo)
