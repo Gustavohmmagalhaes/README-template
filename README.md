@@ -35,13 +35,13 @@
 <p align="center">
  <a href="#sobre">Visão Geral</a> • 
  <a href="#sobre">Pré-requisitos</a> • 
- <a href="#instalacao">Instalação</a> • 
+ <a href="#instalacao">Como executar o Projeto</a> • 
  <a href="#rotas-aplicacao">Rotas da Aplicação</a> • 
  <a href="#endpoints">Endpoints da API</a> •
  <a href="#structure">Estrutura do Projeto</a> •
  <a href="#diagrams">Diagramas do projeto</a> •
- <a href="#colaboradores">Colaboradores</a> •
  <a href="#como-contribuir">Contribuir</a>
+ <a href="#colaboradores">Colaboradores</a> •
 </p>
 
 
@@ -56,7 +56,7 @@ Aqui você lista todos os pré-requisitos necessários para executar seu projeto
 - [NodeJS](https://github.com/)
 - [Git 2](https://github.com)
 
-<h2 id="started">🚀 Como Executar o Projeto </h2>
+<h2 id="started">🚀 Como Executar </h2>
 
 Aqui você descreve como executar seu projeto localmente. Exemplo:
 
@@ -98,7 +98,7 @@ npm run test
 ```
 O back end é executado em `http://localhost:3000` e o front end em `http://localhost:3001`.
 
-<h2 id="routes">📍 Rotas de aplicação </h2>
+<h2 id="routes">📍 Rotas da aplicação </h2>
 
 Aqui você pode listar as principais rotas da sua API e quais são os corpos de requisição esperados.
 ​
