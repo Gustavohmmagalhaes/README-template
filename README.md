@@ -40,7 +40,7 @@
  <a href="#endpoints">Endpoints da API</a> •
  <a href="#structure">Estrutura do Projeto</a> •
  <a href="#diagrams">Diagramas do projeto</a> •
- <a href="#como-contribuir">Contribuir</a>
+ <a href="#como-contribuir">Contribuir</a> •
  <a href="#colaboradores">Colaboradores</a> •
 </p>
 
