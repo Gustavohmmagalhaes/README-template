@@ -49,7 +49,7 @@
 
 Descrição simples do que seu projeto faz e como utilizá-lo.
 
-<h2 id="prerequisites">>:pushpin:Pré-requisitos </h2>
+<h2 id="prerequisites">:pushpin:Pré-requisitos </h2>
 
 Aqui você lista todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
