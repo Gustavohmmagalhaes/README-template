@@ -108,7 +108,7 @@ Liste as principais rotas da sua API e quais são os corpos de requisição espe
 | <kbd>/login</kbd>     | página para login
 | <kbd>/dashboard</kbd>     | página que contém todas as informações de compras e operações do usuário
 
-<h2> Variáveis ​​de Ambiente </h2>
+<h2>:gear:Variáveis ​​de Ambiente </h2>
 
 Variáveis de ambiente são pares chave=valor que armazenam informações de configuração fora do código-fonte da aplicação. Exemplo:
 
