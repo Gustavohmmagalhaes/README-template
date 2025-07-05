@@ -4,6 +4,14 @@
 [VUE__BADGE]: https://img.shields.io/badge/VueJS-fff?style=for-the-badge&logo=vue
 [GATSBY__BADGE]: https://img.shields.io/badge/Gatsby-7026b9?style=for-the-badge&logo=gatsby
 [ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
+[EXPRESS__BADGE]: https://img.shields.io/badge/express-005CFE?style=for-the-badge&logo=express
+[NEST__BADGE]: https://img.shields.io/badge/nest-7026b9?style=for-the-badge&logo=nest
+[GRAPHQL__BADGE]: https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql
+[JAVA_BADGE]:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+[SPRING_BADGE]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
+[MONGO_BADGE]:https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[AWS_BADGE]:https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+
 
 
 <h1 align="center" style="font-weight: bold;">Project name 💻</h1>
@@ -12,8 +20,14 @@
 ![gatsby][GATSBY__BADGE]
 ![angular][ANGULAR__BADGE]
 ![vue][VUE__BADGE]
-![typescript][TYPESCRIPT__BADGE]
-![javascript][JAVASCRIPT__BADGE]
+![express][EXPRESS__BADGE]
+![nest][NEST__BADGE]
+![graphql][GRAPHQL__BADGE]
+![AWS][AWS_BADGE]
+![spring][SPRING_BADGE]
+![java][JAVA_BADGE]
+![mongo][MONGO_BADGE]
+
 
 <p align="center">
  <a href="#about">About</a> • 
