@@ -249,9 +249,22 @@ Aqui você pode listar os principais Endpoints da sua API e quais são os corpos
 
 <h2 id="diagrams">📖 Diagramas</h2>
 
-<h3>:bookmark_tabs:Diagrama de Classe</h3>
+<h3>:bookmark_tabs:Diagrama de Classes</h3>
 
-<h3>:newspaper:Diagrama de Pacote</h3>
+```bash
+    insira o Diagrama de Classes aqui
+```
+
+<h3>:newspaper:Diagrama de Pacotes</h3>
+
+```bash
+    insira o Diagrama de Pacotes aqui
+```
+<h3>:newspaper:Modelo Entidade Relacionamento</h3>
+
+```bash
+    insira o Modelo Entidade Relacionamento aqui
+```
 
 <h2 id="contribute">:compass:Como Contribuir</h2>
 
