@@ -1,6 +1,5 @@
 [REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
 [TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
-[GATSBY__BADGE]: https://img.shields.io/badge/Gatsby-7026b9?style=for-the-badge&logo=gatsby
 [ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
 [VUE__BADGE]: https://img.shields.io/badge/VueJS-fff?style=for-the-badge&logo=vue
 [EXPRESS__BADGE]: https://img.shields.io/badge/express-005CFE?style=for-the-badge&logo=express
@@ -17,7 +16,6 @@
 
 ![react][REACT__BADGE]
 ![typescript][TYPESCRIPT__BADGE]
-![gatsby][GATSBY__BADGE]
 ![angular][ANGULAR__BADGE]
 ![vue][VUE__BADGE]
 ![express][EXPRESS__BADGE]
