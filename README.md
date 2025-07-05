@@ -50,7 +50,45 @@ Descrição simples do que seu projeto faz e como utilizá-lo.
 
 <h2 id="started">🚀 Como Executar o Projeto </h2>
 
-Aqui você descreve como executar seu projeto localmente
+Aqui você descreve como executar seu projeto localmente. Exemplo:
+
+1. **Clone o repositório**:
+
+```bash
+git clone https://github.com/JoseJaan/ToDoList-Zetta
+cd ToDoList-Zetta
+```
+
+2. **Instale as dependências**:
+```bash
+npm install
+cd frontend
+npm install
+```
+
+3. **Arquivo .env**:
+- Na raíz do projeto, crie um arquivo .env e adicione os valores com base na tabela abaixo
+
+4. **Execute o projeto**:
+- Back end:
+```bash
+npm run dev
+```
+ou
+```bash
+docker-compose up --build
+```
+- Front end:
+```bash
+cd frontend
+npm run dev
+```
+
+5. **Testes**:
+```bash
+npm run test
+```
+O back end é executado em `http://localhost:3000` e o front end em `http://localhost:3001`.
 
 <h3> Pré-requisitos </h3>
 
