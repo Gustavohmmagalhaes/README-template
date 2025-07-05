@@ -224,13 +224,13 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
 | DB_USER   | User do banco de dados  | -         |
 | DB_PASSWORD   | Senha do Mysql  | -          |
 | DB_NAME   | Nome do banco no MySQL    | -   |
-| JWT_SECRET   |  Chave JWT  | essa-chave-eh-muito-forte     |
+| JWT_SECRET   |  Chave JWT  | XXXXXXXXXXXXX     |
 | JWT_EXPIRES_IN   | Validade JWT     | 24h            |
-| GMAIL_USER   | Usuário google para envio de emails   | joseacerbialmeida@gmail.com          |
-| GMAIL_APP_PASSWORD   | Chave do google    | wlni omwf gpvf xeve          |
-| CLOUDINARY_API_SECRET | Senha da API do Cloudinary    | 8-_eSBfJn4nx6qqpkPIrLWa32tQ         |
-| CLOUDINARY_CLOUD_NAME  | Nome da cloud no Cloudinary    | dxqcebqx3          |
-| CLOUDINARY_API_KEY   | Chave da API do Cloudinary    | 612318217586866          |
+| GMAIL_USER   | Usuário google para envio de emails   | XXXXXXXXXXXXXX          |
+| GMAIL_APP_PASSWORD   | Chave do google    | XXXXXXX    |
+| CLOUDINARY_API_SECRET | Senha da API do Cloudinary    | XXXXXXXXXXX         |
+| CLOUDINARY_CLOUD_NAME  | Nome da cloud no Cloudinary    | XXXXXXXXXXX          |
+| CLOUDINARY_API_KEY   | Chave da API do Cloudinary    | XXXXXXXXXXXX       |
 | FRONTEND_URL | Url Front  | http://localhost:3001          |
 
 <h2 id= "structure">📁 Estrutura do Projeto<h2>
