@@ -79,19 +79,19 @@ Escreva uma descrição simples do que seu projeto.
   </tr>
 </table>
 
-<h2 id="client">📋 Cliente [⬆️](#)</h2>
+<h2 id="client">📋 Cliente </h2>
 
 - **Nome:** João Carlos (Imobiliária AlugMais)
 - **Contato:** (31) 99999-9999 / joao.alugmais@email.com
 
-<h2 id="prerequisites">📦 Pré-requisitos[⬆️](#)</h2>
+<h2 id="prerequisites">📦 Pré-requisitos</h2>
 
 Liste todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
 - [NodeJS](https://github.com/)
 - [Git 2](https://github.com)
 
-<h2 id="started">[🚀 Como Executar o Projeto](#top)</h2>
+<h2 id="started">🚀 Como Executar o Projeto</h2>
 
 Descreva como executar seu projeto localmente. Exemplo:
 
@@ -134,13 +134,13 @@ npm run test
 O back end é executado em `http://localhost:3000` e o front end em `http://localhost:3001`.
 
 
-<h2 id="deploy">[📌 Deploy](#top)</h2>
+<h2 id="deploy">📌 Deploy</h2>
 
 - **Frontend:** https://meu-projeto-front.vercel.app
 - **Backend/API:** https://meu-projeto-api.onrender.com
 - **Documentação da API:** https://documentacao-api.exemplo.com
 
-<h2 id="routes">[📮 Rotas da Aplicação (Front-end)](#top)</h2>
+<h2 id="routes">📮 Rotas da Aplicação (Front-end)</h2>
 
 Liste as principais rotas da sua API e quais são os corpos de requisição esperados. Exemplo:
 ​
@@ -188,7 +188,7 @@ Aqui você pode listar os principais Endpoints da sua API e quais são os corpos
 }
 ```
 
-<h2 id="variables">[:gear:Variáveis ​​de Ambiente](#top) </h2>
+<h2 id="variables">:gear:Variáveis ​​de Ambiente</h2>
 
 Variáveis de ambiente são pares chave=valor que armazenam informações de configuração fora do código-fonte da aplicação. Exemplo:
 
@@ -207,7 +207,7 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
 | CLOUDINARY_API_KEY   | Chave da API do Cloudinary    | 612318217586866          |
 | FRONTEND_URL | Url Front  | http://localhost:3001          |
 
-<h2 id= "structure">[📁 Estrutura do Projeto] (#top)<h2>
+<h2 id= "structure">📁 Estrutura do Projeto<h2>
     
 #Exemplo
     
@@ -291,7 +291,7 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
 
 ```
 
-<h2 id="diagrams">[📊 Diagramas](#top)</h2>
+<h2 id="diagrams">📊 Diagramas</h2>
 
 <h3>:bookmark_tabs:Diagrama de Classes</h3>
 
@@ -299,12 +299,12 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
     insira o Diagrama de Classes aqui
 ```
 
-<h3>[:newspaper:Diagrama de Pacotes]</h3>
+<h3>:newspaper:Diagrama de Pacotes</h3>
 
 ```bash
     insira o Diagrama de Pacotes aqui
 ```
-<h2 id="model">[🧬 Modelo Entidade Relacionamento](#top)</h2>
+<h2 id="model">🧬 Modelo Entidade Relacionamento</h2>
 
 ```bash
     insira o Modelo Entidade Relacionamento aqui
@@ -316,7 +316,7 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
 - [📋 Documento de Arquitetura](https://link-doc-arquitetura)
 - [📑 Outros documentos](https://link-outros-docs)
 
-<h2 id="contribute">[🙌 Como Contribuir](#top)</h2>
+<h2 id="contribute">🙌 Como Contribuir</h2>
 
 Aqui, você explicará como outros desenvolvedores podem contribuir para o projeto. Por exemplo, explicando como criar suas próprias branches, quais padrões seguir e como abrir um pull request.
 
@@ -325,7 +325,7 @@ Aqui, você explicará como outros desenvolvedores podem contribuir para o proje
 3. Siga os padrões de commit.
 4. Abra um Pull Request explicando o problema resolvido ou o recurso criado. Se houver, anexe uma captura de tela com as modificações visuais e aguarde a revisão!
 
-<h2 id="add">🤔 Informações adicionais <a href="#"></a></h2>
+<h2 id="add">🤔 Informações adicionais </h2>
 
 ```
     Adicione informações extras do projeto aqui
