@@ -33,7 +33,8 @@
     <img src="./logo-comp.png" alt="logo" width="400" height="70">
 </p>
 <p align="center">
- <a href="#sobre">Sobre</a> • 
+ <a href="#sobre">Visão Geral</a> • 
+ <a href="#sobre">Pré-requisitos</a> • 
  <a href="#instalacao">Instalação</a> • 
  <a href="#rotas-aplicacao">Rotas da Aplicação</a> • 
  <a href="#endpoints">Endpoints da API</a> •
@@ -47,6 +48,13 @@
 <h2 id="started">🌐 Visão Geral </h2>
 
 Descrição simples do que seu projeto faz e como utilizá-lo.
+
+<h2 id="prerequisites">>:pushpin:Pré-requisitos </h2>
+
+Aqui você lista todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
+
+- [NodeJS](https://github.com/)
+- [Git 2](https://github.com)
 
 <h2 id="started">🚀 Como Executar o Projeto </h2>
 
@@ -89,30 +97,6 @@ npm run dev
 npm run test
 ```
 O back end é executado em `http://localhost:3000` e o front end em `http://localhost:3001`.
-
-<h3> Pré-requisitos </h3>
-
-Aqui você lista todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
-
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
-
-<h2> Clonando o projeto </h2>
-
-Como clonar seu projeto
-
-```bash
-git clone your-project-url-in-github
-```
-
-<h2>Iniciando o projeto</h2>
-
-How to start your project
-
-```bash
-cd project-name
-npm some-command-to-run
-```
 
 <h2 id="routes">📍 Rotas de aplicação </h2>
 
