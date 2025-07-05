@@ -35,8 +35,8 @@
 <p align="center">
  <a href="#about">About</a> • 
  <a href="#started">Getting Started</a> • 
- <a href="#started">App Routes</a> • 
- <a href="#routes">API Endpoints</a> •
+ <a href="#routes">App Routes</a> • 
+ <a href="#Endpoints">API Endpoints</a> •
  <a href="#colab">Collaborators</a> •
  <a href="#contribute">Contribute</a>
 </p>
@@ -128,7 +128,7 @@ npm some-command-to-run
 ``````
 
 
-<h2 id="routes">📍 API Endpoints</h2>
+<h2 id="Endpoints">📍 API Endpoints</h2>
 
 Here you can list the main routes of your API, and what are their expected request bodies.
 ​
