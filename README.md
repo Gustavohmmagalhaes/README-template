@@ -39,7 +39,7 @@
      <a href="#client">Cliente</a> • 
      <a href="#prerequisites">Pré-Requisitos</a> • 
      <a href="#started">Como executar o Projeto</a> • 
-     <a href="#deploy">Deploy</a>• 
+     <a href="#deploy">Deploy</a> • 
      <a href="#routes">Rotas da Aplicação(FrontEnd)</a> • 
      <a href="#endpoints">Endpoints da API</a> •
      <a href="#structure">Estrutura do Projeto</a> •
