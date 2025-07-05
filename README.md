@@ -49,7 +49,9 @@
 
 
 <h2 id="about">🌐 Visão Geral</h2>
+
 <!-- Substitua este texto com a descrição do seu projeto -->
+
 Escreva uma descrição simples do que seu projeto.
 
 <h2 id="timeline">📆 Cronograma</h2>
