@@ -292,7 +292,7 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
 
 ```
 
-<h2 id="diagrams">📖 Diagramas</h2>
+<h2 id="diagrams">📊 Diagramas</h2>
 
 <h3>:bookmark_tabs:Diagrama de Classes</h3>
 
