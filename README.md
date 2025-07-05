@@ -38,6 +38,7 @@
  <a href="#rotas-aplicacao">Rotas da Aplicação</a> • 
  <a href="#endpoints">Endpoints da API</a> •
  <a href="#structure">Estrutura do Projeto</a> •
+ <a href="#diagrams">Diagramas do projeto</a> •
  <a href="#colaboradores">Colaboradores</a> •
  <a href="#como-contribuir">Contribuir</a>
 </p>
@@ -239,6 +240,12 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 └── tsconfig.json                            
 
 ```
+
+<h2 id="diagrams">📖 Diagramas</h2>
+
+<h3>Diagrama de Classe</h3>
+
+<h3>Diagrama de Pacote</h3>
     
 <h2 id="colab">🤝 Collaborators</h2>
 
