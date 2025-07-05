@@ -80,12 +80,12 @@ Escreva uma descrição simples do que seu projeto.
   </tr>
 </table>
 
-<h2 id="client">:pushpin: Cliente </h2>
+<h2 id="client">📋 Cliente </h2>
 
 - **Nome:** João Carlos (Imobiliária AlugMais)
 - **Contato:** (31) 99999-9999 / joao.alugmais@email.com
 
-<h2 id="prerequisites">:pushpin: Pré-requisitos </h2>
+<h2 id="prerequisites">📦 Pré-requisitos </h2>
 
 Liste todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
