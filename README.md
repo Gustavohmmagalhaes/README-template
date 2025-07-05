@@ -102,14 +102,22 @@ Aqui você lista todos os pré-requisitos necessários para executar seu projeto
 
 
 <h3> Variáveis ​​de Ambiente </h3>
+#Exemplo
 
-Use `application.properties.example` como referência para criar seu arquivo de configuração `application.properties` com suas Credenciais da AWS.
-
-```yaml
-aws.region=us-east-1
-aws.accessKeyId={YOUR_AWS_KEY_ID}
-aws.secretKey={YOUR_AWS_SECRET}
-```
+| Variável  | Descrição                   | Valor Padrão   |
+|-----------|----------------------------|---------------|
+| DB_HOST   | Host do banco de dados  | -          |
+| DB_USER   | User do banco de dados  | -         |
+| DB_PASSWORD   | Senha do Mysql  | -          |
+| DB_NAME   | Nome do banco no MySQL    | -   |
+| JWT_SECRET   |  Chave JWT  | essa-chave-eh-muito-forte     |
+| JWT_EXPIRES_IN   | Validade JWT     | 24h            |
+| GMAIL_USER   | Usuário google para envio de emails   | joseacerbialmeida@gmail.com          |
+| GMAIL_APP_PASSWORD   | Chave do google    | wlni omwf gpvf xeve          |
+| CLOUDINARY_API_SECRET | Senha da API do Cloudinary    | 8-_eSBfJn4nx6qqpkPIrLWa32tQ         |
+| CLOUDINARY_CLOUD_NAME  | Nome da cloud no Cloudinary    | dxqcebqx3          |
+| CLOUDINARY_API_KEY   | Chave da API do Cloudinary    | 612318217586866          |
+| FRONTEND_URL | Url Front  | http://localhost:3001          |
 
 <h2 id="Endpoints">📍 API Endpoints</h2>
 
