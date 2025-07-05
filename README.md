@@ -108,23 +108,6 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 | <kbd>/login</kbd>     | página para login
 | <kbd>/dashboard</kbd>     | página que contém todas as informações de compras e operações do usuário
 
-<h2 id="contribute">📫 Contribute</h2>
-
-Aqui, você explicará como outros desenvolvedores podem contribuir para o projeto. Por exemplo, explicando como criar suas próprias branches, quais padrões seguir e como abrir um pull request.
-
-1. `git clone https://github.com/www/text-editor.git`
-2. `git checkout -b feature/NAME`
-3. Siga os padrões de commit.
-4. Abra um Pull Request explicando o problema resolvido ou o recurso criado. Se houver, anexe uma captura de tela com as modificações visuais e aguarde a revisão!
-
-<h2>Pré-requisitos</h2>
-
-Aqui você lista todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
-
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
-
-
 <h2> Variáveis ​​de Ambiente </h2>
 #Exemplo
 
@@ -268,21 +251,22 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 <h3>:bookmark_tabs:Diagrama de Classe</h3>
 
 <h3>:newspaper:Diagrama de Pacote</h3>
-    
-<h2 id="colab">🤝 Collaborators</h2>
 
-Special thank you for all people that contributed for this project.
+<h2 id="contribute">📫 Como Contribuir</h2>
+
+Aqui, você explicará como outros desenvolvedores podem contribuir para o projeto. Por exemplo, explicando como criar suas próprias branches, quais padrões seguir e como abrir um pull request.
+
+1. `git clone https://github.com/www/text-editor.git`
+2. `git checkout -b feature/NAME`
+3. Siga os padrões de commit.
+4. Abra um Pull Request explicando o problema resolvido ou o recurso criado. Se houver, anexe uma captura de tela com as modificações visuais e aguarde a revisão!
+    
+<h2 id="colab">🤝 Colaboradores</h2>
+
+Um agradecimento especial a todas as pessoas que contribuíram para este projeto.
 
 <table>
   <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Elon Musk Picture"/><br>
-        <sub>
-          <b>Elon Musk</b>
-        </sub>
-      </a>
-    </td>
     <td align="center">
       <a href="#">
         <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
