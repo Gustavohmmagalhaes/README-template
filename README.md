@@ -46,7 +46,7 @@
      <a href="#model">Modelo de Entidade Relacionamento</a> •
      <a href="#doc">Documentação </a> •
      <a href="#contribute">Como Contribuir</a> •
-     <a href="#add">Informações Adicionais</a> •
+     <a href="#add">Informações Adicionais</a> 
     </p>
 
 
