@@ -34,15 +34,15 @@
 </p>
 <p align="center">
  <a href="#started">Visão Geral</a> • 
- <a href="#started">Pré-requisitos</a> • 
+ <a href="#started">Pré-Requisitos</a> • 
  <a href="#started">Como executar o Projeto</a> • 
  <a href="#routes">Rotas da Aplicação</a> • 
  <a href="#endpoints">Endpoints da API</a> •
  <a href="#structure">Estrutura do Projeto</a> •
- <a href="#diagrams">Diagramas do projeto</a> •
+ <a href="#diagrams">Diagramas do Projeto</a> •
  <a href="#model">Modelo de Entidade Relacionamento</a> •
  <a href="#contribute">Contribuir</a> •
- <a href="#add">Informações adicionais</a> •
+ <a href="#add">Informações Adicionais</a> •
  <a href="#colab">Colaboradores</a> •
 </p>
 
