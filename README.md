@@ -42,6 +42,7 @@
  <a href="#diagrams">Diagramas do projeto</a> •
  <a href="#model">Modelo de Entidade Relacionamento</a> •
  <a href="#contribute">Contribuir</a> •
+ <a href="#add">Informações adicionais</a> •
  <a href="#colab">Colaboradores</a> •
 </p>
 
