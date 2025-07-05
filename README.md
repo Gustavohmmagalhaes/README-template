@@ -31,7 +31,7 @@
 <p align="center">
     <img src="./img/logo-comp.png" alt="logo" width="400" height="70">
 </p>
-    <p align="center"> <a id='#'> </a>  </p>
+    <p align="center"></p>
      <a href="#about">Visão Geral</a> • 
      <a href="#timeline">Cronograma</a> • 
      <a href="#Squad">Squad de Desenvolvimento</a> • 
