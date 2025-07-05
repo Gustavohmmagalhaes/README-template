@@ -49,17 +49,17 @@
 
 
 <h2 id="about">🌐 Visão Geral</h2>
-
+<!-- Substitua este texto com a descrição do seu projeto -->
 Escreva uma descrição simples do que seu projeto.
 
 <h2 id="timeline">📆 Cronograma</h2>
-
+<!-- Substitua -->
 - **Data de Início:** 05/06/2025  
 - **Data de Conclusão:** 02/07/2025  
 - **Duração Total:** 4 semanas
   
 <h2 id="Squad">👨‍💻 Squad de Desenvolvimento</h2>
-
+<!-- Substitua -->
 **Squad:** Squad CompJr / Turma 05
   
 <h3 id="colab">🤝 Desenvolvedores</h3>
@@ -78,19 +78,19 @@ Escreva uma descrição simples do que seu projeto.
 </table>
 
 <h2 id="client">📋 Cliente </h2>
-
+<!-- Substitua -->
 - **Nome:** João Carlos (Imobiliária AlugMais)
 - **Contato:** (31) 99999-9999 / joao.alugmais@email.com
 
 <h2 id="prerequisites">📦 Pré-requisitos</h2>
-
+<!-- Substitua  -->
 Liste todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
 - [NodeJS](https://github.com/)
 - [Git 2](https://github.com)
 
 <h2 id="started">🚀 Como Executar o Projeto</h2>
-
+<!-- Substitua -->
 Descreva como executar seu projeto localmente. Exemplo:
 
 1. **Clone o repositório**:
@@ -133,13 +133,13 @@ O back end é executado em `http://localhost:3000` e o front end em `http://loca
 
 
 <h2 id="deploy">📌 Deploy</h2>
-
+<!-- Substitua -->
 - **Frontend:** https://meu-projeto-front.vercel.app
 - **Backend/API:** https://meu-projeto-api.onrender.com
 - **Documentação da API:** https://documentacao-api.exemplo.com
 
 <h2 id="routes">📮 Rotas da Aplicação (Front-end)</h2>
-
+<!-- Substitua -->
 Liste as principais rotas da sua API e quais são os corpos de requisição esperados. Exemplo:
 ​
 | rota                | descrição                                           
@@ -150,7 +150,7 @@ Liste as principais rotas da sua API e quais são os corpos de requisição espe
 
 
 <h2 id="Endpoints">[🔌 Endpoints da API](#top) </h2>
-
+<!-- Substitua -->
 Aqui você pode listar os principais Endpoints da sua API e quais são os corpos de requisição esperados.
 ​
 | rota                | descrição                                           
@@ -187,7 +187,7 @@ Aqui você pode listar os principais Endpoints da sua API e quais são os corpos
 ```
 
 <h2 id="variables">:gear:Variáveis ​​de Ambiente</h2>
-
+<!-- Substitua -->
 Variáveis de ambiente são pares chave=valor que armazenam informações de configuração fora do código-fonte da aplicação. Exemplo:
 
 | Variável  | Descrição                   | Valor Padrão   |
@@ -206,7 +206,7 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
 | FRONTEND_URL | Url Front  | http://localhost:3001          |
 
 <h2 id= "structure">📁 Estrutura do Projeto<h2>
-    
+<!-- Substitua este texto com a estrutura do seu projeto -->   
 #Exemplo
     
 ```
@@ -290,7 +290,7 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
 ```
 
 <h2 id="diagrams">📊 Diagramas</h2>
-
+<!-- Substitua -->
 <h3>:bookmark_tabs:Diagrama de Classes</h3>
 
 ```bash
@@ -308,14 +308,14 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
     insira o Modelo Entidade Relacionamento aqui
 ```
 <h2 id="doc">:pushpin:Documentação</h2>
-
+<!-- Substitua  -->
 - [📘 Documento de Requisitos](https://link-doc-requisitos)
 - [🎨 Protótipo/Design no Figma](https://figma.com/projeto-exemplo)
 - [📋 Documento de Arquitetura](https://link-doc-arquitetura)
 - [📑 Outros documentos](https://link-outros-docs)
 
 <h2 id="contribute">🙌 Como Contribuir</h2>
-
+<!-- Substitua  -->
 Aqui, você explicará como outros desenvolvedores podem contribuir para o projeto. Por exemplo, explicando como criar suas próprias branches, quais padrões seguir e como abrir um pull request.
 
 1. `git clone https://github.com/www/text-editor.git`
@@ -324,7 +324,7 @@ Aqui, você explicará como outros desenvolvedores podem contribuir para o proje
 4. Abra um Pull Request explicando o problema resolvido ou o recurso criado. Se houver, anexe uma captura de tela com as modificações visuais e aguarde a revisão!
 
 <h2 id="add">🤔 Informações adicionais </h2>
-
+<!-- Substitua  -->
 ```
     Adicione informações extras do projeto aqui
 ```
