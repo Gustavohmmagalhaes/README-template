@@ -60,7 +60,7 @@
 
 <!-- Substitua este texto com a descrição do seu projeto -->
 
-Escreva uma descrição simples do que seu projeto.
+Escreva uma descrição simples sobre o projeto.
 
 <h2 id="timeline">📆 Cronograma</h2>
 
