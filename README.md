@@ -275,6 +275,12 @@ Aqui, você explicará como outros desenvolvedores podem contribuir para o proje
 2. `git checkout -b feature/NAME`
 3. Siga os padrões de commit.
 4. Abra um Pull Request explicando o problema resolvido ou o recurso criado. Se houver, anexe uma captura de tela com as modificações visuais e aguarde a revisão!
+
+<h2 id="add">🤔 Informações adicionais</h2>
+
+```bash
+    Adicione informações extras do projeto aqui
+```
     
 <h2 id="colab">🤝 Colaboradores</h2>
 
