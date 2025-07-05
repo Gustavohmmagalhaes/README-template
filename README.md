@@ -79,12 +79,12 @@ Escreva uma descrição simples do que seu projeto.
   </tr>
 </table>
 
-<h2 id="client">[📋 Cliente ](#top)</h2>
+<h2 id="client">📋 Cliente [⬆️](#)</h2>
 
 - **Nome:** João Carlos (Imobiliária AlugMais)
 - **Contato:** (31) 99999-9999 / joao.alugmais@email.com
 
-<h2 id="prerequisites">[📦 Pré-requisitos] (#top)</h2>
+<h2 id="prerequisites">📦 Pré-requisitos[⬆️](#)</h2>
 
 Liste todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
@@ -325,7 +325,7 @@ Aqui, você explicará como outros desenvolvedores podem contribuir para o proje
 3. Siga os padrões de commit.
 4. Abra um Pull Request explicando o problema resolvido ou o recurso criado. Se houver, anexe uma captura de tela com as modificações visuais e aguarde a revisão!
 
-<h2 id="add">[🤔 Informações adicionais(#top)]</h2>
+<h2 id="add">🤔 Informações adicionais[⬆️](#)</h2>
 
 ```
     Adicione informações extras do projeto aqui
