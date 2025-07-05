@@ -4,8 +4,6 @@
 [VUE__BADGE]: https://img.shields.io/badge/VueJS-fff?style=for-the-badge&logo=vue
 [GATSBY__BADGE]: https://img.shields.io/badge/Gatsby-7026b9?style=for-the-badge&logo=gatsby
 [ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
-[PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://github.com/Fernanda-Kipper/Readme-Templates
 
 
 <h1 align="center" style="font-weight: bold;">Project name 💻</h1>
@@ -34,8 +32,6 @@
 <h2 id="started">📌 About</h2>
 
 Simple description of what your project do or how to use it.
-
-[![project][PROJECT__BADGE]][PROJECT__URL]
 
 <h2 id="started">🚀 Getting started</h2>
 
