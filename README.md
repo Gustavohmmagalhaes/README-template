@@ -32,32 +32,34 @@
 <p align="center">
     <img src="./logo-comp.png" alt="logo" width="400" height="70">
 </p>
-<p align="center">
- <a href="#started">Visão Geral</a> • 
- <a href="#started">Pré-Requisitos</a> • 
- <a href="#started">Como executar o Projeto</a> • 
- <a href="#routes">Rotas da Aplicação</a> • 
- <a href="#endpoints">Endpoints da API</a> •
- <a href="#structure">Estrutura do Projeto</a> •
- <a href="#diagrams">Diagramas do Projeto</a> •
- <a href="#model">Modelo de Entidade Relacionamento</a> •
- <a href="#contribute">Contribuir</a> •
- <a href="#add">Informações Adicionais</a> •
- <a href="#colab">Colaboradores</a> •
-</p>
+    <p align="center">
+     <a href="#about">Visão Geral</a> • 
+     <a href="#timeline">Cronograma</a> • 
+     <a href="#Squad">Squad de Desenvolvimento</a> • 
+     <a href="#prerequisites">Pré-Requisitos</a> • 
+     <a href="#started">Como executar o Projeto</a> • 
+     <a href="#routes">Rotas da Aplicação</a> • 
+     <a href="#endpoints">Endpoints da API</a> •
+     <a href="#structure">Estrutura do Projeto</a> •
+     <a href="#diagrams">Diagramas do Projeto</a> •
+     <a href="#model">Modelo de Entidade Relacionamento</a> •
+     <a href="#contribute">Contribuir</a> •
+     <a href="#add">Informações Adicionais</a> •
+     <a href="#colab">Colaboradores</a> •
+    </p>
 
 
-<h2 id="started">🌐 Visão Geral </h2>
+<h2 id="about">🌐 Visão Geral </h2>
 
 Escreva uma descrição simples do que seu projeto.
 
-<h2 id="started">📆 Cronograma </h2>
+<h2 id="timeline">📆 Cronograma </h2>
 
 - **Data de Início:** 05/06/2025  
 - **Data de Conclusão:** 02/07/2025  
 - **Duração Total:** 4 semanas
   
-<h2 id="started">🧑‍💻 Squad de Desenvolvimento </h2>
+<h2 id="Squad">🧑‍💻 Squad de Desenvolvimento </h2>
 
 **Squad:** Squad CompJr / Turma 05
   
@@ -81,14 +83,14 @@ Escreva uma descrição simples do que seu projeto.
 - **Nome:** João Carlos (Imobiliária AlugMais)
 - **Contato:** (31) 99999-9999 / joao.alugmais@email.com
 
-<h2 id="prerequisites">:pushpin:Documentação </h2>
+<h2 id="doc">:pushpin:Documentação </h2>
 
 - [📘 Documento de Requisitos](https://link-doc-requisitos)
 - [🎨 Protótipo/Design no Figma](https://figma.com/projeto-exemplo)
 - [📋 Documento de Arquitetura](https://link-doc-arquitetura)
 - [📑 Outros documentos](https://link-outros-docs)
 
-<h2 id="prerequisites">🚀 Deploy</h2>
+<h2 id="deploy">🚀 Deploy</h2>
 
 - **Frontend:** https://meu-projeto-front.vercel.app
 - **Backend/API:** https://meu-projeto-api.onrender.com
