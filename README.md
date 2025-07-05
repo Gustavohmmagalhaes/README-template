@@ -14,7 +14,7 @@
 
 
 
-<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+<h1 align="center" style="font-weight: bold;">Nome do Projeto 💻</h1>
 
 ![react][REACT__BADGE]
 ![gatsby][GATSBY__BADGE]
@@ -33,39 +33,39 @@
     <img src="./logo-comp.png" alt="logo" width="400" height="70">
 </p>
 <p align="center">
- <a href="#about">About</a> • 
- <a href="#started">Getting Started</a> • 
- <a href="#routes">App Routes</a> • 
- <a href="#Endpoints">API Endpoints</a> •
- <a href="#colab">Collaborators</a> •
- <a href="#contribute">Contribute</a>
+ <a href="#sobre">Sobre</a> • 
+ <a href="#instalacao">Instalação</a> • 
+ <a href="#rotas-aplicacao">Rotas da Aplicação</a> • 
+ <a href="#endpoints">Endpoints da API</a> •
+ <a href="#colaboradores">Colaboradores</a> •
+ <a href="#como-contribuir">Contribuir</a>
 </p>
 
 
-<h2 id="started">📌 About</h2>
+<h2 id="started">📌 Sobre </h2>
 
-Simple description of what your project do or how to use it.
+Descrição simples do que seu projeto faz e como utilizá-lo.
 
-<h2 id="started">🚀 Getting started</h2>
+<h2 id="started">🚀 Instalação </h2>
 
-Here you describe how to run your project locally
+Aqui você descreve como executar seu projeto localmente
 
-<h3>Prerequisites</h3>
+<h3> Pré-requisitos </h3>
 
-Here you list all prerequisites necessary for running your project. For example:
+Aqui você lista todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
 - [NodeJS](https://github.com/)
 - [Git 2](https://github.com)
 
-<h3>Cloning</h3>
+<h3> Clonando o projeto </h3>
 
-How to clone your project
+Como clonar seu projeto
 
 ```bash
 git clone your-project-url-in-github
 ```
 
-<h3>Starting</h3>
+<h3>Iniciando o projeto</h3>
 
 How to start your project
 
@@ -74,43 +74,36 @@ cd project-name
 npm some-command-to-run
 ```
 
-<h2 id="routes">📍 Application Routes</h2>
+<h2 id="routes">📍 Rotas de aplicação </h2>
 
-Here you can list the main routes of your API, and what are their expected request bodies.
+Aqui você pode listar as principais rotas da sua API e quais são os corpos de requisição esperados.
 ​
-| route               | description                                          
+| rota                | descrição                                           
 |----------------------|-----------------------------------------------------
-| <kbd>/authenticate</kbd>     | page that list all user info
-| <kbd>/login</kbd>     | page to login
-| <kbd>/dashboard</kbd>     | page that contains all user shopping and spences info
+| <kbd>/authenticate</kbd>     | página que lista todas as informações do usuário
+| <kbd>/login</kbd>     | página para login
+| <kbd>/dashboard</kbd>     | página que contém todas as informações de compras e operações do usuário
 
 <h2 id="contribute">📫 Contribute</h2>
 
-Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
+Aqui, você explicará como outros desenvolvedores podem contribuir para o projeto. Por exemplo, explicando como criar suas próprias branches, quais padrões seguir e como abrir um pull request.
 
-1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
+1. `git clone https://github.com/www/text-editor.git`
 2. `git checkout -b feature/NAME`
-3. Follow commit patterns
-4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+3. Siga os padrões de commit.
+4. Abra um Pull Request explicando o problema resolvido ou o recurso criado. Se houver, anexe uma captura de tela com as modificações visuais e aguarde a revisão!
 
-<h3>Prerequisites</h3>
+<h3>Pré-requisitos</h3>
 
-Here you list all prerequisites necessary for running your project. For example:
+Aqui você lista todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
 - [NodeJS](https://github.com/)
 - [Git 2](https://github.com)
 
-<h3>Cloning</h3>
 
-How to clone your project
+<h3> Variáveis ​​de Ambiente </h3>
 
-```bash
-git clone your-project-url-in-github
-```
-
-<h3> Environment Variables</h2>
-
-Use the `application.properties.example` as reference to create your configuration file `application.properties` with your AWS Credentials
+Use `application.properties.example` como referência para criar seu arquivo de configuração `application.properties` com suas Credenciais da AWS.
 
 ```yaml
 aws.region=us-east-1
@@ -118,42 +111,32 @@ aws.accessKeyId={YOUR_AWS_KEY_ID}
 aws.secretKey={YOUR_AWS_SECRET}
 ```
 
-<h3>Starting</h3>
-
-How to start your project
-
-```bash
-cd project-name
-npm some-command-to-run
-``````
-
-
 <h2 id="Endpoints">📍 API Endpoints</h2>
 
-Here you can list the main routes of your API, and what are their expected request bodies.
+Aqui você pode listar as principais rotas da sua API e quais são os corpos de requisição esperados.
 ​
-| route               | description                                          
+| rota                | descrição                                           
 |----------------------|-----------------------------------------------------
-| <kbd>GET /authenticate</kbd>     | retrieves user info see [response details](#get-auth-detail)
-| <kbd>POST /authenticate</kbd>     | authenticate user into the api see [request details](#post-auth-detail)
+| <kbd>GET /authenticate</kbd>     | recupera informações do usuário [response details](#get-auth-detail)
+| <kbd>POST /authenticate</kbd>     | autentica o usuário na API  [request details](#post-auth-detail)
 
 <h3 id="get-auth-detail">GET /authenticate</h3>
 
 **RESPONSE**
 ```json
 {
-  "name": "Fernanda Kipper",
-  "age": 20,
-  "email": "her-email@gmail.com"
+  "name": "Gustavo Magalhães",
+  "age": 25,
+  "email": "gemail@gmail.com"
 }
 ```
 
-<h3 id="post-auth-detail">POST /authenticate</h3>
+<h3 id="post-auth-detail">POST /autenticar </h3>
 
 **REQUEST**
 ```json
 {
-  "username": "fernandakipper",
+  "username": "joao123",
   "password": "4444444"
 }
 ```
@@ -171,14 +154,6 @@ Special thank you for all people that contributed for this project.
 
 <table>
   <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
-        <sub>
-          <b>Fernanda Kipper</b>
-        </sub>
-      </a>
-    </td>
     <td align="center">
       <a href="#">
         <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Elon Musk Picture"/><br>
