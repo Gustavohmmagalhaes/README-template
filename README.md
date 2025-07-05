@@ -156,7 +156,7 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
   "token": "OwoMRHsaQwyAgVoc3OXmL1JhMVUYXGGBbCTK0GBgiYitwQwjf0gVoBmkbuyy0pSi"
 }
 ```
-<h2 id= "structure">📁 Estrutura do Projeto <h2>
+<h3 id= "structure">📁 Estrutura do Projeto <h3>
     
 ```
 ├──frontend/
@@ -234,7 +234,8 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 ├── RotasToDoList - InsomniaV5 # Arquivo com requisições para a API, no formato InsomniaV5
 ├── RotasToDoList.har - InsomniaV5 # Arquivo com requisições para a API, no formato har
 ├── README.md 
-└── tsconfig.json                                        
+└── tsconfig.json
+
 ```
     
 <h2 id="colab">🤝 Collaborators</h2>
