@@ -58,7 +58,7 @@ Escreva uma descrição simples do que seu projeto.
 - **Data de Conclusão:** 02/07/2025  
 - **Duração Total:** 4 semanas
   
-<h2 id="Squad">🧑‍💻 Squad de Desenvolvimento </h2>
+<h2 id="Squad">👨‍💻 Squad de Desenvolvimento </h2>
 
 **Squad:** Squad CompJr / Turma 05
   
@@ -82,12 +82,6 @@ Escreva uma descrição simples do que seu projeto.
 - **Nome:** João Carlos (Imobiliária AlugMais)
 - **Contato:** (31) 99999-9999 / joao.alugmais@email.com
 
-<h2 id="doc">:pushpin:Documentação </h2>
-
-- [📘 Documento de Requisitos](https://link-doc-requisitos)
-- [🎨 Protótipo/Design no Figma](https://figma.com/projeto-exemplo)
-- [📋 Documento de Arquitetura](https://link-doc-arquitetura)
-- [📑 Outros documentos](https://link-outros-docs)
 
 <h2 id="deploy">🚀 Deploy</h2>
 
@@ -144,7 +138,7 @@ npm run test
 ```
 O back end é executado em `http://localhost:3000` e o front end em `http://localhost:3001`.
 
-<h2 id="routes">📍 Rotas da aplicação </h2>
+<h2 id="routes">📮 Rotas da Aplicação (Front-end)</h2>
 
 Liste as principais rotas da sua API e quais são os corpos de requisição esperados. Exemplo:
 ​
@@ -154,26 +148,8 @@ Liste as principais rotas da sua API e quais são os corpos de requisição espe
 | <kbd>/login</kbd>     | página para login
 | <kbd>/dashboard</kbd>     | página que contém todas as informações de compras e operações do usuário
 
-<h2>:gear:Variáveis ​​de Ambiente </h2>
 
-Variáveis de ambiente são pares chave=valor que armazenam informações de configuração fora do código-fonte da aplicação. Exemplo:
-
-| Variável  | Descrição                   | Valor Padrão   |
-|-----------|----------------------------|---------------|
-| DB_HOST   | Host do banco de dados  | -          |
-| DB_USER   | User do banco de dados  | -         |
-| DB_PASSWORD   | Senha do Mysql  | -          |
-| DB_NAME   | Nome do banco no MySQL    | -   |
-| JWT_SECRET   |  Chave JWT  | essa-chave-eh-muito-forte     |
-| JWT_EXPIRES_IN   | Validade JWT     | 24h            |
-| GMAIL_USER   | Usuário google para envio de emails   | joseacerbialmeida@gmail.com          |
-| GMAIL_APP_PASSWORD   | Chave do google    | wlni omwf gpvf xeve          |
-| CLOUDINARY_API_SECRET | Senha da API do Cloudinary    | 8-_eSBfJn4nx6qqpkPIrLWa32tQ         |
-| CLOUDINARY_CLOUD_NAME  | Nome da cloud no Cloudinary    | dxqcebqx3          |
-| CLOUDINARY_API_KEY   | Chave da API do Cloudinary    | 612318217586866          |
-| FRONTEND_URL | Url Front  | http://localhost:3001          |
-
-<h2 id="Endpoints">📍 API Endpoints</h2>
+<h2 id="Endpoints">🔌 Endpoints da API </h2>
 
 Aqui você pode listar os principais Endpoints da sua API e quais são os corpos de requisição esperados.
 ​
@@ -209,6 +185,26 @@ Aqui você pode listar os principais Endpoints da sua API e quais são os corpos
   "token": "OwoMRHsaQwyAgVoc3OXmL1JhMVUYXGGBbCTK0GBgiYitwQwjf0gVoBmkbuyy0pSi"
 }
 ```
+
+<h2 id="variables">:gear:Variáveis ​​de Ambiente </h2>
+
+Variáveis de ambiente são pares chave=valor que armazenam informações de configuração fora do código-fonte da aplicação. Exemplo:
+
+| Variável  | Descrição                   | Valor Padrão   |
+|-----------|----------------------------|---------------|
+| DB_HOST   | Host do banco de dados  | -          |
+| DB_USER   | User do banco de dados  | -         |
+| DB_PASSWORD   | Senha do Mysql  | -          |
+| DB_NAME   | Nome do banco no MySQL    | -   |
+| JWT_SECRET   |  Chave JWT  | essa-chave-eh-muito-forte     |
+| JWT_EXPIRES_IN   | Validade JWT     | 24h            |
+| GMAIL_USER   | Usuário google para envio de emails   | joseacerbialmeida@gmail.com          |
+| GMAIL_APP_PASSWORD   | Chave do google    | wlni omwf gpvf xeve          |
+| CLOUDINARY_API_SECRET | Senha da API do Cloudinary    | 8-_eSBfJn4nx6qqpkPIrLWa32tQ         |
+| CLOUDINARY_CLOUD_NAME  | Nome da cloud no Cloudinary    | dxqcebqx3          |
+| CLOUDINARY_API_KEY   | Chave da API do Cloudinary    | 612318217586866          |
+| FRONTEND_URL | Url Front  | http://localhost:3001          |
+
 <h2 id= "structure">📁 Estrutura do Projeto <h2>
     
 #Exemplo
@@ -306,13 +302,19 @@ Aqui você pode listar os principais Endpoints da sua API e quais são os corpos
 ```bash
     insira o Diagrama de Pacotes aqui
 ```
-<h3 id="model">:books:Modelo Entidade Relacionamento</h3>
+<h2 id="model">🧬 Modelo Entidade Relacionamento</h2>
 
 ```bash
     insira o Modelo Entidade Relacionamento aqui
 ```
+<h2 id="doc">:pushpin:Documentação </h2>
 
-<h2 id="contribute">:compass:Como Contribuir</h2>
+- [📘 Documento de Requisitos](https://link-doc-requisitos)
+- [🎨 Protótipo/Design no Figma](https://figma.com/projeto-exemplo)
+- [📋 Documento de Arquitetura](https://link-doc-arquitetura)
+- [📑 Outros documentos](https://link-outros-docs)
+
+<h2 id="contribute">🙌 Como Contribuir</h2>
 
 Aqui, você explicará como outros desenvolvedores podem contribuir para o projeto. Por exemplo, explicando como criar suas próprias branches, quais padrões seguir e como abrir um pull request.
 
