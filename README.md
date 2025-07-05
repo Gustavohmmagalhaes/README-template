@@ -45,7 +45,6 @@
      <a href="#model">Modelo de Entidade Relacionamento</a> •
      <a href="#contribute">Contribuir</a> •
      <a href="#add">Informações Adicionais</a> •
-     <a href="#colab">Colaboradores</a> •
     </p>
 
 
