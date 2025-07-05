@@ -40,8 +40,8 @@
  <a href="#endpoints">Endpoints da API</a> •
  <a href="#structure">Estrutura do Projeto</a> •
  <a href="#diagrams">Diagramas do projeto</a> •
- <a href="#como-contribuir">Contribuir</a> •
- <a href="#colaboradores">Colaboradores</a> •
+ <a href="#contribute">Contribuir</a> •
+ <a href="#colab">Colaboradores</a> •
 </p>
 
 
@@ -252,7 +252,7 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 
 <h3>:newspaper:Diagrama de Pacote</h3>
 
-<h2 id="contribute">📫 Como Contribuir</h2>
+<h2 id="contribute">:compass:Como Contribuir</h2>
 
 Aqui, você explicará como outros desenvolvedores podem contribuir para o projeto. Por exemplo, explicando como criar suas próprias branches, quais padrões seguir e como abrir um pull request.
 
