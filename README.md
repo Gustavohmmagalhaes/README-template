@@ -51,6 +51,25 @@
 
 Escreva uma descrição simples do que seu projeto.
 
+<h2 id="started">🧑‍💻 Squad de Desenvolvimento </h2>
+
+**Squad:** Squad CompJr / Turma 05
+  
+<h3 id="colab">🤝 Desenvolvedores</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>Steve Jobs</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h2 id="prerequisites">:pushpin:Pré-requisitos </h2>
 
 Liste todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
@@ -283,19 +302,3 @@ Aqui, você explicará como outros desenvolvedores podem contribuir para o proje
     Adicione informações extras do projeto aqui
 ```
     
-<h2 id="colab">🤝 Colaboradores</h2>
-
-Um agradecimento especial a todas as pessoas que contribuíram para este projeto.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
