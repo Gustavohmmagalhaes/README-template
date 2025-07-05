@@ -58,7 +58,7 @@ Aqui você lista todos os pré-requisitos necessários para executar seu projeto
 - [NodeJS](https://github.com/)
 - [Git 2](https://github.com)
 
-<h3> Clonando o projeto </h3>
+<h2> Clonando o projeto </h2>
 
 Como clonar seu projeto
 
@@ -66,7 +66,7 @@ Como clonar seu projeto
 git clone your-project-url-in-github
 ```
 
-<h3>Iniciando o projeto</h3>
+<h2>Iniciando o projeto</h2>
 
 How to start your project
 
@@ -94,7 +94,7 @@ Aqui, você explicará como outros desenvolvedores podem contribuir para o proje
 3. Siga os padrões de commit.
 4. Abra um Pull Request explicando o problema resolvido ou o recurso criado. Se houver, anexe uma captura de tela com as modificações visuais e aguarde a revisão!
 
-<h3>Pré-requisitos</h3>
+<h2>Pré-requisitos</h2>
 
 Aqui você lista todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
@@ -102,7 +102,7 @@ Aqui você lista todos os pré-requisitos necessários para executar seu projeto
 - [Git 2](https://github.com)
 
 
-<h3> Variáveis ​​de Ambiente </h3>
+<h2> Variáveis ​​de Ambiente </h2>
 #Exemplo
 
 | Variável  | Descrição                   | Valor Padrão   |
@@ -156,9 +156,9 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
   "token": "OwoMRHsaQwyAgVoc3OXmL1JhMVUYXGGBbCTK0GBgiYitwQwjf0gVoBmkbuyy0pSi"
 }
 ```
-<h3 id= "structure">📁 Estrutura do Projeto <h3>
+<h2 id= "structure">📁 Estrutura do Projeto <h2>
     
-```
+```bash
 ├──frontend/
 │   ├── public/ 
 │   │ └── index.html # Porta de entrada da página
