@@ -29,7 +29,7 @@
 
 
 <p align="center">
-    <img src="./logo-comp.png" alt="logo" width="400" height="70">
+    <img src="./img/logo-comp.png" alt="logo" width="400" height="70">
 </p>
     <p align="center">
      <a href="#about">Visão Geral</a> • 
