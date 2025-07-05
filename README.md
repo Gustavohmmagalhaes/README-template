@@ -44,11 +44,11 @@
 </p>
 
 
-<h2 id="started">📌 Sobre </h2>
+<h2 id="started">🌐 Visão Geral </h2>
 
 Descrição simples do que seu projeto faz e como utilizá-lo.
 
-<h2 id="started">🚀 Instalação </h2>
+<h2 id="started">🚀 Como Executar o Projeto </h2>
 
 Aqui você descreve como executar seu projeto localmente
 
