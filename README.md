@@ -61,7 +61,9 @@ Escreva uma descrição simples do que seu projeto.
 - **Duração Total:** 4 semanas
   
 <h2 id="Squad">👨‍💻 Squad de Desenvolvimento</h2>
+
 <!-- Substitua -->
+
 **Squad:** Squad CompJr / Turma 05
   
 <h3 id="colab">🤝 Desenvolvedores</h3>
@@ -80,12 +82,16 @@ Escreva uma descrição simples do que seu projeto.
 </table>
 
 <h2 id="client">📋 Cliente </h2>
+
 <!-- Substitua -->
+
 - **Nome:** João Carlos (Imobiliária AlugMais)
 - **Contato:** (31) 99999-9999 / joao.alugmais@email.com
 
 <h2 id="prerequisites">📦 Pré-requisitos</h2>
+
 <!-- Substitua  -->
+
 Liste todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
 - [NodeJS](https://github.com/)
