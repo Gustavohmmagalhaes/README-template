@@ -33,10 +33,10 @@
     <img src="./logo-comp.png" alt="logo" width="400" height="70">
 </p>
 <p align="center">
- <a href="#sobre">Visão Geral</a> • 
- <a href="#sobre">Pré-requisitos</a> • 
- <a href="#instalacao">Como executar o Projeto</a> • 
- <a href="#rotas-aplicacao">Rotas da Aplicação</a> • 
+ <a href="#started">Visão Geral</a> • 
+ <a href="#started">Pré-requisitos</a> • 
+ <a href="#started">Como executar o Projeto</a> • 
+ <a href="#routes">Rotas da Aplicação</a> • 
  <a href="#endpoints">Endpoints da API</a> •
  <a href="#structure">Estrutura do Projeto</a> •
  <a href="#diagrams">Diagramas do projeto</a> •
