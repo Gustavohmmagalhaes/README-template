@@ -45,7 +45,7 @@
      <a href="#structure">Estrutura do Projeto</a> •
      <a href="#diagrams">Diagramas do Projeto</a> •
      <a href="#model">Modelo de Entidade Relacionamento</a> •
-     <a href="#doc">Documentação Complementar</a> •
+     <a href="#doc">Documentação </a> •
      <a href="#contribute">Como Contribuir</a> •
      <a href="#add">Informações Adicionais</a> •
     </p>
