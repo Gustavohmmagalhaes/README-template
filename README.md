@@ -1,17 +1,17 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gustavomagalhaes/projeto-z/blob/main/LICENSE)
-[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
-[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
-[REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
-[VUE__BADGE]: https://img.shields.io/badge/VueJS-fff?style=for-the-badge&logo=vue
-[GATSBY__BADGE]: https://img.shields.io/badge/Gatsby-7026b9?style=for-the-badge&logo=gatsby
-[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
-[EXPRESS__BADGE]: https://img.shields.io/badge/express-005CFE?style=for-the-badge&logo=express
-[NEST__BADGE]: https://img.shields.io/badge/nest-7026b9?style=for-the-badge&logo=nest
-[GRAPHQL__BADGE]: https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql
-[JAVA_BADGE]:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-[SPRING_BADGE]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
-[MONGO_BADGE]:https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[AWS_BADGE]:https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+![JavaScript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/VueJS-fff?style=for-the-badge&logo=vue)
+![Gatsby](https://img.shields.io/badge/Gatsby-7026b9?style=for-the-badge&logo=gatsby)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![Express](https://img.shields.io/badge/express-005CFE?style=for-the-badge&logo=express)
+![Nest](https://img.shields.io/badge/nest-7026b9?style=for-the-badge&logo=nest)
+![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
