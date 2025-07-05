@@ -40,6 +40,7 @@
  <a href="#endpoints">Endpoints da API</a> •
  <a href="#structure">Estrutura do Projeto</a> •
  <a href="#diagrams">Diagramas do projeto</a> •
+ <a href="#model">Modelo de Entidade Relacionamento</a> •
  <a href="#contribute">Contribuir</a> •
  <a href="#colab">Colaboradores</a> •
 </p>
@@ -260,7 +261,7 @@ Aqui você pode listar os principais Endpoints da sua API e quais são os corpos
 ```bash
     insira o Diagrama de Pacotes aqui
 ```
-<h3>:newspaper:Modelo Entidade Relacionamento</h3>
+<h3 id="model">:books:Modelo Entidade Relacionamento</h3>
 
 ```bash
     insira o Modelo Entidade Relacionamento aqui
