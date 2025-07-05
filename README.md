@@ -36,14 +36,17 @@
      <a href="#about">Visão Geral</a> • 
      <a href="#timeline">Cronograma</a> • 
      <a href="#Squad">Squad de Desenvolvimento</a> • 
+     <a href="#client">Cliente</a> • 
      <a href="#prerequisites">Pré-Requisitos</a> • 
      <a href="#started">Como executar o Projeto</a> • 
-     <a href="#routes">Rotas da Aplicação</a> • 
+     <a href="#deploy">Deploy • 
+     <a href="#routes">Rotas da Aplicação(FrontEnd)</a> • 
      <a href="#endpoints">Endpoints da API</a> •
      <a href="#structure">Estrutura do Projeto</a> •
      <a href="#diagrams">Diagramas do Projeto</a> •
      <a href="#model">Modelo de Entidade Relacionamento</a> •
-     <a href="#contribute">Contribuir</a> •
+     <a href="#doc">Documentação Complementar</a> •
+     <a href="#contribute">Como Contribuir</a> •
      <a href="#add">Informações Adicionais</a> •
     </p>
 
@@ -77,26 +80,19 @@ Escreva uma descrição simples do que seu projeto.
   </tr>
 </table>
 
-<h2 id="prerequisites">:pushpin:Cliente </h2>
+<h2 id="client">:pushpin: Cliente </h2>
 
 - **Nome:** João Carlos (Imobiliária AlugMais)
 - **Contato:** (31) 99999-9999 / joao.alugmais@email.com
 
-
-<h2 id="deploy">🚀 Deploy</h2>
-
-- **Frontend:** https://meu-projeto-front.vercel.app
-- **Backend/API:** https://meu-projeto-api.onrender.com
-- **Documentação da API:** https://documentacao-api.exemplo.com
-
-<h2 id="prerequisites">:pushpin:Pré-requisitos </h2>
+<h2 id="prerequisites">:pushpin: Pré-requisitos </h2>
 
 Liste todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
 - [NodeJS](https://github.com/)
 - [Git 2](https://github.com)
 
-<h2 id="started">🚀 Como Executar </h2>
+<h2 id="started">🚀 Como Executar o Projeto </h2>
 
 Descreva como executar seu projeto localmente. Exemplo:
 
@@ -137,6 +133,13 @@ npm run dev
 npm run test
 ```
 O back end é executado em `http://localhost:3000` e o front end em `http://localhost:3001`.
+
+
+<h2 id="deploy">📌 Deploy</h2>
+
+- **Frontend:** https://meu-projeto-front.vercel.app
+- **Backend/API:** https://meu-projeto-api.onrender.com
+- **Documentação da API:** https://documentacao-api.exemplo.com
 
 <h2 id="routes">📮 Rotas da Aplicação (Front-end)</h2>
 
