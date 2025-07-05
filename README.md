@@ -163,24 +163,64 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 ```
 ├──frontend/
 │   ├── public/ 
+│   │ └── index.html # Porta de entrada da página
 │   ├── src/ 
 │   │ ├── components/ # Pastas com arquivos componentizados
+│   │ │   ├── auth/ # Componentes de autenticação
+│   │ │   ├── layout/ # Componentes de Header e Footer
+│   │ │   └── tasks/ # Componentes de Tasks
 │   │ ├── pages/ # Pastas com páginas
+│   │ │   ├── DashboardPage.ts 
+│   │ │   ├── ForgotPasswordPage.ts 
+│   │ │   ├── LoginPage.ts 
+│   │ │   ├── RegisterPage.ts 
+│   │ │   └── ResetPasswordPage.ts
 │   │ ├── services/ # Pastas com services
+│   │ │   ├── AuthService.ts 
+│   │ │   └── TaskService.ts
 │   │ ├── styles/ # Estilos scss
+│   │ │   ├── components
+│   │ │   │  ├── _auth.scss
+│   │ │   │  ├── _dashboard.scss
+│   │ │   │  ├── _footer.scss
+│   │ │   │  └── _header.scss
+│   │ │   └── main.scss
 │   │ ├── services/ # Pastas com definição das entidades
+│   │ │   ├── Auth.ts 
+│   │ │   └── Task.ts
 │   │ ├── utils/ # Pasta com router
+│   │ │   └── router.ts
 │   │ └── main.ts # Porta de entrada da aplicação
 │   ├── package-lock.json
 │   └── package.json
 ├──src/
 │   ├── config/ # Configurações de conexão com o banco de dados e Multer
 │   ├── controllers/ # Pasta com controllers
+│   │ ├── authController.ts
+│   │ ├── taskController.ts
+│   │ └── userController.ts
 │   ├── middleware/ # Middleware de autenticação
+│   │ └── authMiddleware.ts
 │   ├── models/ # Entidades Sequelize
+│   │ ├── index.ts
+│   │ ├── PasswordReset.ts
+│   │ ├── Task.ts
+│   │ └── User.ts
 │   ├── routes/ # Arquivos de rotas
+│   │ ├── authRoutes.ts
+│   │ ├── index.ts
+│   │ ├── taskRoutes.ts
+│   │ └── userRoutes.ts
 │   ├── services/ # Pasta com services
+│   │ ├── authService.ts
+│   │ ├── cloudinaryService.ts
+│   │ ├── emailService.ts
+│   │ ├── taskService.ts
+│   │ └── userService.ts
 │   ├── utils/ # Pasta com validators
+│   │ ├── authValidation.ts
+│   │ ├── taskValidation.ts
+│   │ └── userValidation.ts
 │   └── index.ts # Porta de entrada da aplicação
 ├──images/ # Imagens usadas na documentação
 ├──__tests__/ # Arquivos de testes unitários
@@ -193,7 +233,10 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 ├── package-lock.json 
 ├── package.json
 ├── README.md 
-└── tsconfig.json
+├── RotasToDoList 
+├── RotasToDoList.har 
+├── README.md 
+└── tsconfig.json                            
 
 ```
     
