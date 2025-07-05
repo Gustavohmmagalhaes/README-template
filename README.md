@@ -325,7 +325,7 @@ Aqui, você explicará como outros desenvolvedores podem contribuir para o proje
 3. Siga os padrões de commit.
 4. Abra um Pull Request explicando o problema resolvido ou o recurso criado. Se houver, anexe uma captura de tela com as modificações visuais e aguarde a revisão!
 
-<h2 id="add"> <a href="#"></a> >🤔 Informações adicionais</h2>
+<h2 id="add">🤔 Informações adicionais <a href="#"></a></h2>
 
 ```
     Adicione informações extras do projeto aqui
