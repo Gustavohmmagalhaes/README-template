@@ -278,7 +278,7 @@ Aqui, você explicará como outros desenvolvedores podem contribuir para o proje
 
 <h2 id="add">🤔 Informações adicionais</h2>
 
-```bash
+```
     Adicione informações extras do projeto aqui
 ```
     
