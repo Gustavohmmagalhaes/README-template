@@ -1,3 +1,5 @@
+<!-- Selececione os Badges que preferir -->
+
 [REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
 [TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
 [ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
@@ -13,6 +15,8 @@
 
 <h1 align="center" style="font-weight: bold;">Nome do Projeto 💻</h1>
 
+<!-- Selececione os Badges que preferir -->
+
 ![react][REACT__BADGE]
 ![typescript][TYPESCRIPT__BADGE]
 ![angular][ANGULAR__BADGE]
@@ -27,7 +31,11 @@
 
 
 <p align="center">
-    <img src="./img/logo-comp.png" alt="logo" width="400" height="70">
+    
+<!-- Substitua essa imagem pela logo do seu projeto -->
+
+<img src="./img/logo-comp.png" alt="logo" width="400" height="70">
+
 </p>
     <p align="center"></p>
      <a href="#about">Visão Geral</a> • 
