@@ -47,18 +47,18 @@
 
 <h2 id="started">🌐 Visão Geral </h2>
 
-Descrição simples do que seu projeto faz e como utilizá-lo.
+Escreva uma descrição simples do que seu projeto.
 
 <h2 id="prerequisites">:pushpin:Pré-requisitos </h2>
 
-Aqui você lista todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
+Liste todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
 
 - [NodeJS](https://github.com/)
 - [Git 2](https://github.com)
 
 <h2 id="started">🚀 Como Executar </h2>
 
-Aqui você descreve como executar seu projeto localmente. Exemplo:
+Descreva como executar seu projeto localmente. Exemplo:
 
 1. **Clone o repositório**:
 
@@ -100,7 +100,7 @@ O back end é executado em `http://localhost:3000` e o front end em `http://loca
 
 <h2 id="routes">📍 Rotas da aplicação </h2>
 
-Aqui você pode listar as principais rotas da sua API e quais são os corpos de requisição esperados.
+Liste as principais rotas da sua API e quais são os corpos de requisição esperados. Exemplo:
 ​
 | rota                | descrição                                           
 |----------------------|-----------------------------------------------------
@@ -109,7 +109,8 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 | <kbd>/dashboard</kbd>     | página que contém todas as informações de compras e operações do usuário
 
 <h2> Variáveis ​​de Ambiente </h2>
-#Exemplo
+
+Variáveis de ambiente são pares chave=valor que armazenam informações de configuração fora do código-fonte da aplicação. Exemplo:
 
 | Variável  | Descrição                   | Valor Padrão   |
 |-----------|----------------------------|---------------|
@@ -128,12 +129,12 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 
 <h2 id="Endpoints">📍 API Endpoints</h2>
 
-Aqui você pode listar as principais rotas da sua API e quais são os corpos de requisição esperados.
+Aqui você pode listar os principais Endpoints da sua API e quais são os corpos de requisição esperados.
 ​
 | rota                | descrição                                           
 |----------------------|-----------------------------------------------------
 | <kbd>GET /authenticate</kbd>     | recupera informações do usuário [response details](#get-auth-detail)
-| <kbd>POST /authenticate</kbd>     | autentica o usuário na API  [request details](#post-auth-detail)
+| <kbd>POST /authenticate-user </kbd>     | autentica o usuário na API  [request details](#post-auth-detail)
 
 <h3 id="get-auth-detail">GET /authenticate</h3>
 
@@ -146,7 +147,7 @@ Aqui você pode listar as principais rotas da sua API e quais são os corpos de 
 }
 ```
 
-<h3 id="post-auth-detail">POST /autenticar </h3>
+<h3 id="post-auth-detail">POST /authenticate-user </h3>
 
 **REQUEST**
 ```json
