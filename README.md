@@ -30,17 +30,15 @@
 
 
 <p align="center">
+    <img src="./logo-comp.png" alt="logo" width="400" height="70">
+</p>
+<p align="center">
  <a href="#about">About</a> • 
  <a href="#started">Getting Started</a> • 
  <a href="#started">App Routes</a> • 
  <a href="#routes">API Endpoints</a> •
  <a href="#colab">Collaborators</a> •
  <a href="#contribute">Contribute</a>
-</p>
-
-
-<p align="center">
-    <img src="./logo-comp.png" alt="logo" width="400" height="70">
 </p>
 
 
