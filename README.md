@@ -231,7 +231,7 @@ Variáveis de ambiente são pares chave=valor que armazenam informações de con
 | CLOUDINARY_API_SECRET | Senha da API do Cloudinary    | XXXXXXXXXXX         |
 | CLOUDINARY_CLOUD_NAME  | Nome da cloud no Cloudinary    | XXXXXXXXXXX          |
 | CLOUDINARY_API_KEY   | Chave da API do Cloudinary    | XXXXXXXXXXXX       |
-| FRONTEND_URL | Url Front  | http://localhost:3001          |
+| FRONTEND_URL | Url Front  | XXXXXXXXXXX          |
 
 <h2 id= "structure">📁 Estrutura do Projeto<h2>
     
