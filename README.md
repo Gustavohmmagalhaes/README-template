@@ -39,6 +39,7 @@
 </p>
     <p align="center"></p>
      <a href="#about">Visão Geral</a> • 
+     <a href="#tech">Tecnologias Utilizadas</a> • 
      <a href="#timeline">Cronograma</a> • 
      <a href="#Squad">Squad de Desenvolvimento</a> • 
      <a href="#client">Cliente</a> • 
@@ -61,6 +62,18 @@
 <!-- Substitua este texto com a descrição do seu projeto -->
 
 Escreva uma descrição simples sobre o projeto.
+
+
+<h2 id="tech">💻 Tecnologias Utilizadas</h2>
+
+<!-- Substitua -->
+
+- Front-end: Next.js (React)
+- Back-end: Node.js + Fastify
+- Banco de Dados: PostgreSQL + Prisma
+- Autenticação: Keycloak
+- Mensageria: Kafka ou RabbitMQ
+- Containerização: Docker + Docker Compose
 
 <h2 id="timeline">📆 Cronograma</h2>
 
